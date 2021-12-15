@@ -1,0 +1,11 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "jupyter.kernels.filter": [
+        {
+            "type": "jupyterKernelspec",
+            "path": "~/anaconda3/envs/proba/python.exe"
+        }
+    ],
+    "python.defaultInterpreterPath": "~/anaconda3/envs/proba/python.exe",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+}
